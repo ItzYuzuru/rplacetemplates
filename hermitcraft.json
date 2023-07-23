@@ -2,14 +2,14 @@
   "contact": "",
   "templates": [
     {
-      "name": "not even close",
+      "name": "hermitcraft",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131982823805427872/1132674808941912184/PuGWL8Xf8mXH3D8RFNE2jKdFAAAAAElFTkSuQmCC.png"
+        "https://cdn.discordapp.com/attachments/1131982823805427872/1132686150272827553/hermittemplate.png"
       ],
-      "x": 541,
-      "y": -676
+      "x": 1541,
+      "y": 324
     }
-  ]
+  ],
   "whitelist": [],
   "blacklist": []
 }
